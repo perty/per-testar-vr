@@ -1,0 +1,23 @@
+{
+  "name": "per-testar",
+  "description": "Per Testar.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "live-server --port=7001",
+    "budo": "budo --ssl --cert=localhost.crt --key=localhost.key --port 7001",
+    "deploy": "ghpages"
+  },
+  "devDependencies": {
+    "ghpages": "0.0.3",
+    "live-server": "^1.2.0"
+  },
+  "keywords": [
+    "aframe",
+    "aframe-example",
+    "aframe-boilerplate",
+    "aframe-scene",
+    "webvr",
+    "vr"
+  ]
+}
