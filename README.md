@@ -14,3 +14,7 @@ npm run start
 ### Using Oculus VR headset
 
 Note the IP number of your laptop.
+
+### Create a new certificate for https
+
+`updatecert.sh`
