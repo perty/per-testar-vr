@@ -7,7 +7,7 @@
     "start": "budo --ssl --cert=localhost.crt --key=localhost.key --port 7001 --open --live"
   },
   "devDependencies": {
-    "budo": "^11.6.4"
+    "budo": "^11.8.4"
   },
   "keywords": [
     "aframe",
